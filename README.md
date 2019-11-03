@@ -4,4 +4,4 @@ Two different versions made using different methods, found at hook/ and async/.
 Hook/main.c uses hooks to obtain the key messages while async/main.c makes use of the GetAsyncKeyState() function.
 extras.c contains some extra functionatilies that could be added to the keylogger, such as downloading and uploading files and a half-done reverse shell.
 
-Abandoned pet project, basically.
+It's an abandoned pet project, basically.
