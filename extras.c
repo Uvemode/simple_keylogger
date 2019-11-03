@@ -1,4 +1,4 @@
-// This is a fucking mess, stderr should be properly redirected with manual pipes, here some links to follow
+// This is a mess, stderr should be properly redirected with manual pipes, here some links to follow
 // https://scriptdotsh.com/index.php/2018/09/04/malware-on-steroids-part-1-simple-cmd-reverse-shell/
 // https://sinister.ly/Thread-Tutorial-Source-Code-Tutorial-Simple-Reverse-Shell-in-C
 // https://github.com/infoskirmish/Window-Tools/blob/master/Simple%20Reverse%20Shell/shell.c
